@@ -22,32 +22,20 @@ The dataset used in this project contains credit card transactions made by Europ
 
 ## Evaluation Metric
 
+![image](https://github.com/MadanBabu1314114/Credit-card-Fraud-Detection-using-Machine-learning/assets/123216438/e40f808f-1fab-44e1-a207-342829779e3f)
+
+
 Due to the class imbalance ratio, it is recommended to measure accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification.
 
 ## Data Simulator
 
 A simulator for transaction data has been released as part of the practical handbook on Machine Learning for Credit Card Fraud Detection. You can find it [here](https://fraud-detection-handbook.github.io/fraud-detection-handbook/Chapter_3_GettingStarted/SimulatedDataset.html).
 
-## Acknowledgements
-
-The dataset was collected and analyzed through a research collaboration between Worldline and the Machine Learning Group of ULB (Université Libre de Bruxelles) on big data mining and fraud detection. Please cite the following works:
-
-- [Dal Pozzolo et al., 2015](link)
-- [Dal Pozzolo et al., 2014](link)
-- [Dal Pozzolo et al., 2018](link)
-- [Dal Pozzolo, 2017](link)
-- [Carcillo et al., 2018](link)
-- [Carcillo et al., 2018](link)
-- [Lebichot et al., 2019](link)
-- [Carcillo et al., 2019](link)
-- [Le Borgne and Bontempi, Handbook](link)
-- [Lebichot et al., Incremental Learning](link)
+ 
 
 ## Contributors
 
-- Your Name
+- Gaddiparthi Madan Babu
 - Additional contributors (if any)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+ 
